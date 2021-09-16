@@ -1,0 +1,437 @@
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: ERRO3, Lexema: "Digite A, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 1, coluna 17
+Classe: ERRO1, Lexema: :, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 1, coluna 18
+Classe: ERRO3, Lexema: ";, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 1, coluna 20
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: ERRO3, Lexema: ", Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 2, coluna 9
+Classe: ERRO1, Lexema: \, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 2, coluna 10
+Classe: id, Lexema: nB, Tipo: Nulo
+Classe: OPR, Lexema: =, Tipo: Nulo
+Classe: ERRO1, Lexema: \, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 2, coluna 14
+Classe: id, Lexema: n, Tipo: Nulo
+Classe: ERRO3, Lexema: ";, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 2, coluna 17
+Classe: ERRO3, Lexema: "ola, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 4, coluna 4
+Classe: ERRO1, Lexema: @, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 4, coluna 5
+Classe: id, Lexema: oi, Tipo: Nulo
+Classe: ERRO3, Lexema: ", Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 4, coluna 8
+Classe: inicio, Lexema: inicio, Tipo: Nulo
+Classe: varinicio, Lexema: varinicio, Tipo: Nulo
+Classe: id, Lexema: A, Tipo: Nulo
+Classe: literal, Lexema: literal, Tipo: literal
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: inteiro, Lexema: inteiro, Tipo: inteiro
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: id, Lexema: D, Tipo: Nulo
+Classe: inteiro, Lexema: inteiro, Tipo: inteiro
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: id, Lexema: C, Tipo: Nulo
+Classe: real, Lexema: real, Tipo: real
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: varfim, Lexema: varfim, Tipo: Nulo
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: Lit, Lexema: "Digite B", Tipo: literal
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: leia, Lexema: leia, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: ERRO3, Lexema: "Digite A, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 17, coluna 21
+Classe: ERRO1, Lexema: :, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 17, coluna 22
+Classe: ERRO3, Lexema: ";, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 17, coluna 24
+Classe: leia, Lexema: leia, Tipo: Nulo
+Classe: id, Lexema: A, Tipo: Nulo
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: se, Lexema: se, Tipo: Nulo
+Classe: AB_P, Lexema: (, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: OPR, Lexema: >, Tipo: Nulo
+Classe: NUM, Lexema: 2, Tipo: inteiro
+Classe: FC_P, Lexema: ), Tipo: Nulo
+Classe: entao, Lexema: entao, Tipo: Nulo
+Classe: se, Lexema: se, Tipo: Nulo
+Classe: AB_P, Lexema: (, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: OPR, Lexema: <=, Tipo: Nulo
+Classe: NUM, Lexema: 4, Tipo: inteiro
+Classe: FC_P, Lexema: ), Tipo: Nulo
+Classe: entao, Lexema: entao, Tipo: Nulo
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: Lit, Lexema: "B esta entre 2 e 4", Tipo: literal
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: fimse, Lexema: fimse, Tipo: Nulo
+Classe: fimse, Lexema: fimse, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: RCB, Lexema: <-, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: OPM, Lexema: +, Tipo: Nulo
+Classe: NUM, Lexema: 1, Tipo: inteiro
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: RCB, Lexema: <-, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: OPM, Lexema: +, Tipo: Nulo
+Classe: NUM, Lexema: 2, Tipo: inteiro
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: RCB, Lexema: <-, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: OPM, Lexema: +, Tipo: Nulo
+Classe: NUM, Lexema: 3, Tipo: inteiro
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: id, Lexema: D, Tipo: Nulo
+Classe: RCB, Lexema: <-, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: id, Lexema: C, Tipo: Nulo
+Classe: RCB, Lexema: <-, Tipo: Nulo
+Classe: NUM, Lexema: 5.0, Tipo: real
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: repita, Lexema: repita, Tipo: Nulo
+Classe: AB_P, Lexema: (, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: OPR, Lexema: <, Tipo: Nulo
+Classe: NUM, Lexema: 5, Tipo: inteiro
+Classe: FC_P, Lexema: ), Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: RCB, Lexema: <-, Tipo: Nulo
+Classe: id, Lexema: B, Tipo: Nulo
+Classe: OPM, Lexema: +, Tipo: Nulo
+Classe: NUM, Lexema: 1, Tipo: inteiro
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: fimrepita, Lexema: fimrepita, Tipo: Nulo
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: ERRO3, Lexema: ", Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 34, coluna 13
+Classe: ERRO1, Lexema: \, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 34, coluna 14
+Classe: id, Lexema: nB, Tipo: Nulo
+Classe: OPR, Lexema: =, Tipo: Nulo
+Classe: ERRO1, Lexema: \, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 34, coluna 18
+Classe: id, Lexema: n, Tipo: Nulo
+Classe: ERRO3, Lexema: ";, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 34, coluna 21
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: id, Lexema: D, Tipo: Nulo
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: ERRO3, Lexema: ", Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 36, coluna 13
+Classe: ERRO1, Lexema: \, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 36, coluna 14
+Classe: id, Lexema: n, Tipo: Nulo
+Classe: ERRO3, Lexema: ";, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 36, coluna 17
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: id, Lexema: C, Tipo: Nulo
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: ERRO3, Lexema: ", Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 38, coluna 13
+Classe: ERRO1, Lexema: \, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 38, coluna 14
+Classe: id, Lexema: n, Tipo: Nulo
+Classe: ERRO3, Lexema: ";, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 38, coluna 17
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: id, Lexema: A, Tipo: Nulo
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: fim, Lexema: fim, Tipo: Nulo
+Classe: id, Lexema: aa, Tipo: Nulo
+Classe: ERRO5, Lexema: {, Tipo: Nulo
+ERRO5 - Comentario incompleto, faltando chaves } , linha 41, coluna 3
+Classe: Lit, Lexema: "ola mundo", Tipo: literal
+Classe: Lit, Lexema: 'a', Tipo: literal
+Classe: OPM, Lexema: *, Tipo: Nulo
+Classe: OPM, Lexema: +, Tipo: Nulo
+Classe: OPM, Lexema: -, Tipo: Nulo
+Classe: OPM, Lexema: /, Tipo: Nulo
+Classe: AB_P, Lexema: (, Tipo: Nulo
+Classe: FC_P, Lexema: ), Tipo: Nulo
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: VIR, Lexema: ,, Tipo: Nulo
+Classe: RCB, Lexema: <-, Tipo: Nulo
+Classe: OPR, Lexema: <, Tipo: Nulo
+Classe: OPR, Lexema: <=, Tipo: Nulo
+Classe: OPR, Lexema: <>, Tipo: Nulo
+Classe: OPR, Lexema: >, Tipo: Nulo
+Classe: OPR, Lexema: >=, Tipo: Nulo
+Classe: OPR, Lexema: =, Tipo: Nulo
+Classe: RCB, Lexema: <-, Tipo: Nulo
+Classe: id, Lexema: a, Tipo: Nulo
+Classe: OPR, Lexema: <, Tipo: Nulo
+Classe: id, Lexema: b, Tipo: Nulo
+Classe: OPR, Lexema: <=, Tipo: Nulo
+Classe: id, Lexema: c, Tipo: Nulo
+Classe: OPR, Lexema: <>, Tipo: Nulo
+Classe: id, Lexema: d, Tipo: Nulo
+Classe: OPR, Lexema: >, Tipo: Nulo
+Classe: id, Lexema: e, Tipo: Nulo
+Classe: OPR, Lexema: >=, Tipo: Nulo
+Classe: id, Lexema: f, Tipo: Nulo
+Classe: OPR, Lexema: =, Tipo: Nulo
+Classe: id, Lexema: g, Tipo: Nulo
+Classe: id, Lexema: a, Tipo: Nulo
+Classe: id, Lexema: a123, Tipo: Nulo
+Classe: id, Lexema: a123_, Tipo: Nulo
+Classe: id, Lexema: a_123, Tipo: Nulo
+Classe: id, Lexema: a_, Tipo: Nulo
+Classe: id, Lexema: a, Tipo: Nulo
+Classe: OPM, Lexema: -, Tipo: Nulo
+Classe: id, Lexema: a123, Tipo: Nulo
+Classe: OPM, Lexema: -, Tipo: Nulo
+Classe: id, Lexema: a123_, Tipo: Nulo
+Classe: OPM, Lexema: -, Tipo: Nulo
+Classe: id, Lexema: a_123, Tipo: Nulo
+Classe: OPM, Lexema: -, Tipo: Nulo
+Classe: id, Lexema: a_, Tipo: Nulo
+Classe: OPM, Lexema: -, Tipo: Nulo
+Classe: inicio, Lexema: inicio, Tipo: Nulo
+Classe: varinicio, Lexema: varinicio, Tipo: Nulo
+Classe: varfim, Lexema: varfim, Tipo: Nulo
+Classe: escreva, Lexema: escreva, Tipo: Nulo
+Classe: leia, Lexema: leia, Tipo: Nulo
+Classe: se, Lexema: se, Tipo: Nulo
+Classe: entao, Lexema: entao, Tipo: Nulo
+Classe: fimse, Lexema: fimse, Tipo: Nulo
+Classe: repita, Lexema: repita, Tipo: Nulo
+Classe: fimrepita, Lexema: fimrepita, Tipo: Nulo
+Classe: fim, Lexema: fim, Tipo: Nulo
+Classe: inteiro, Lexema: inteiro, Tipo: inteiro
+Classe: literal, Lexema: literal, Tipo: literal
+Classe: real, Lexema: real, Tipo: real
+Classe: NUM, Lexema: 1, Tipo: inteiro
+Classe: NUM, Lexema: 123, Tipo: inteiro
+Classe: ERRO2, Lexema: 1E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 91, coluna 2
+Classe: ERRO2, Lexema: 123E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 92, coluna 4
+Classe: NUM, Lexema: 1E+1, Tipo: inteiro
+Classe: NUM, Lexema: 1E+123, Tipo: inteiro
+Classe: NUM, Lexema: 123E+1, Tipo: inteiro
+Classe: NUM, Lexema: 123E+123, Tipo: inteiro
+Classe: NUM, Lexema: 1E-1, Tipo: inteiro
+Classe: NUM, Lexema: 1E-123, Tipo: inteiro
+Classe: NUM, Lexema: 123E-1, Tipo: inteiro
+Classe: NUM, Lexema: 123E-123, Tipo: inteiro
+Classe: NUM, Lexema: 1E1, Tipo: inteiro
+Classe: NUM, Lexema: 1E123, Tipo: inteiro
+Classe: NUM, Lexema: 123E1, Tipo: inteiro
+Classe: NUM, Lexema: 123E123, Tipo: inteiro
+Classe: ERRO2, Lexema: 1e, Tipo: Nulo
+ERRO2 - Numero invalido , linha 105, coluna 2
+Classe: ERRO2, Lexema: 123e, Tipo: Nulo
+ERRO2 - Numero invalido , linha 106, coluna 4
+Classe: NUM, Lexema: 1e+1, Tipo: inteiro
+Classe: NUM, Lexema: 1e+123, Tipo: inteiro
+Classe: NUM, Lexema: 123e+1, Tipo: inteiro
+Classe: NUM, Lexema: 123e+123, Tipo: inteiro
+Classe: NUM, Lexema: 1e-1, Tipo: inteiro
+Classe: NUM, Lexema: 1e-123, Tipo: inteiro
+Classe: NUM, Lexema: 123e-1, Tipo: inteiro
+Classe: NUM, Lexema: 123e-123, Tipo: inteiro
+Classe: NUM, Lexema: 1e1, Tipo: inteiro
+Classe: NUM, Lexema: 1e123, Tipo: inteiro
+Classe: NUM, Lexema: 123e1, Tipo: inteiro
+Classe: NUM, Lexema: 123e123, Tipo: inteiro
+Classe: NUM, Lexema: 1.1, Tipo: real
+Classe: NUM, Lexema: 1.123, Tipo: real
+Classe: ERRO2, Lexema: 1.1E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 122, coluna 4
+Classe: ERRO2, Lexema: 1.123E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 123, coluna 6
+Classe: NUM, Lexema: 1.1E+1, Tipo: real
+Classe: NUM, Lexema: 1.1E+123, Tipo: real
+Classe: NUM, Lexema: 1.123E+1, Tipo: real
+Classe: NUM, Lexema: 1.123E+123, Tipo: real
+Classe: NUM, Lexema: 1.1E-1, Tipo: real
+Classe: NUM, Lexema: 1.1E-123, Tipo: real
+Classe: NUM, Lexema: 1.123E-1, Tipo: real
+Classe: NUM, Lexema: 1.123E-123, Tipo: real
+Classe: NUM, Lexema: 1.1E1, Tipo: real
+Classe: NUM, Lexema: 1.1E123, Tipo: real
+Classe: NUM, Lexema: 1.123E1, Tipo: real
+Classe: NUM, Lexema: 1.123E123, Tipo: real
+Classe: ERRO2, Lexema: 1.1e, Tipo: Nulo
+ERRO2 - Numero invalido , linha 136, coluna 4
+Classe: ERRO2, Lexema: 1.123e, Tipo: Nulo
+ERRO2 - Numero invalido , linha 137, coluna 6
+Classe: NUM, Lexema: 1.1e+1, Tipo: real
+Classe: NUM, Lexema: 1.1e+123, Tipo: real
+Classe: NUM, Lexema: 1.123e+1, Tipo: real
+Classe: NUM, Lexema: 1.123e+123, Tipo: real
+Classe: NUM, Lexema: 1.1e-1, Tipo: real
+Classe: NUM, Lexema: 1.1e-123, Tipo: real
+Classe: NUM, Lexema: 1.123e-1, Tipo: real
+Classe: NUM, Lexema: 1.123e-123, Tipo: real
+Classe: NUM, Lexema: 1.1e1, Tipo: real
+Classe: NUM, Lexema: 1.1e123, Tipo: real
+Classe: NUM, Lexema: 1.123e1, Tipo: real
+Classe: NUM, Lexema: 1.123e123, Tipo: real
+Classe: NUM, Lexema: 123.1, Tipo: real
+Classe: NUM, Lexema: 123.123, Tipo: real
+Classe: ERRO2, Lexema: 123.1E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 153, coluna 6
+Classe: ERRO2, Lexema: 123.123E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 154, coluna 8
+Classe: NUM, Lexema: 123.1E+1, Tipo: real
+Classe: NUM, Lexema: 123.1E+123, Tipo: real
+Classe: NUM, Lexema: 123.123E+1, Tipo: real
+Classe: NUM, Lexema: 123.123E+123, Tipo: real
+Classe: NUM, Lexema: 123.1E-1, Tipo: real
+Classe: NUM, Lexema: 123.1E-123, Tipo: real
+Classe: NUM, Lexema: 123.123E-1, Tipo: real
+Classe: NUM, Lexema: 123.123E-123, Tipo: real
+Classe: NUM, Lexema: 123.1E1, Tipo: real
+Classe: NUM, Lexema: 123.1E123, Tipo: real
+Classe: NUM, Lexema: 123.123E1, Tipo: real
+Classe: NUM, Lexema: 123.123E123, Tipo: real
+Classe: ERRO2, Lexema: 123.1e, Tipo: Nulo
+ERRO2 - Numero invalido , linha 167, coluna 6
+Classe: ERRO2, Lexema: 123.123e, Tipo: Nulo
+ERRO2 - Numero invalido , linha 168, coluna 8
+Classe: NUM, Lexema: 123.1e+1, Tipo: real
+Classe: NUM, Lexema: 123.1e+123, Tipo: real
+Classe: NUM, Lexema: 123.123e+1, Tipo: real
+Classe: NUM, Lexema: 123.123e+123, Tipo: real
+Classe: NUM, Lexema: 123.1e-1, Tipo: real
+Classe: NUM, Lexema: 123.1e-123, Tipo: real
+Classe: NUM, Lexema: 123.123e-1, Tipo: real
+Classe: NUM, Lexema: 123.123e-123, Tipo: real
+Classe: NUM, Lexema: 123.1e1, Tipo: real
+Classe: NUM, Lexema: 123.1e123, Tipo: real
+Classe: NUM, Lexema: 123.123e1, Tipo: real
+Classe: NUM, Lexema: 123.123e123, Tipo: real
+Classe: ERRO1, Lexema: @, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 183, coluna 1
+Classe: ERRO1, Lexema: }, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 183, coluna 3
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 183, coluna 5
+Classe: ERRO2, Lexema: 12., Tipo: Nulo
+ERRO2 - Numero invalido , linha 184, coluna 3
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: ERRO2, Lexema: 12., Tipo: Nulo
+ERRO2 - Numero invalido , linha 185, coluna 3
+Classe: ERRO2, Lexema: 123.12E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 186, coluna 7
+Classe: ERRO2, Lexema: 123.12E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 187, coluna 7
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 187, coluna 8
+Classe: ERRO2, Lexema: 123.12E+, Tipo: Nulo
+ERRO2 - Numero invalido , linha 188, coluna 8
+Classe: ERRO2, Lexema: 123.12E+, Tipo: Nulo
+ERRO2 - Numero invalido , linha 189, coluna 8
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 189, coluna 9
+Classe: ERRO2, Lexema: 123E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 190, coluna 4
+Classe: ERRO2, Lexema: 123E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 191, coluna 4
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 191, coluna 5
+Classe: ERRO2, Lexema: 123E+, Tipo: Nulo
+ERRO2 - Numero invalido , linha 192, coluna 5
+Classe: ERRO2, Lexema: 123E+, Tipo: Nulo
+ERRO2 - Numero invalido , linha 193, coluna 5
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 193, coluna 6
+Classe: ERRO3, Lexema: ", Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 194, coluna 1
+Classe: ERRO3, Lexema: "abc, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 195, coluna 4
+Classe: ERRO4, Lexema: 'a, Tipo: Nulo
+ERRO4 - Literal incompleto, Faltando uma aspas simples , linha 196, coluna 2
+Classe: ERRO5, Lexema: {abcc, Tipo: Nulo
+ERRO5 - Comentario incompleto, faltando chaves } , linha 197, coluna 5
+Classe: ERRO5, Lexema: {, Tipo: Nulo
+ERRO5 - Comentario incompleto, faltando chaves } , linha 198, coluna 1
+Classe: ERRO4, Lexema: 'a, Tipo: Nulo
+ERRO4 - Literal incompleto, Faltando uma aspas simples , linha 199, coluna 2
+Classe: id, Lexema: bcd, Tipo: Nulo
+Classe: ERRO6, Lexema: '', Tipo: Nulo
+ERRO6 - Literal incompleto, a aspas simples nao pode ser vazia , linha 200, coluna 2
+Classe: ERRO4, Lexema: ', Tipo: Nulo
+ERRO4 - Literal incompleto, Faltando uma aspas simples , linha 201, coluna 1
+Classe: ERRO1, Lexema: @, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 203, coluna 1
+Classe: id, Lexema: a, Tipo: Nulo
+Classe: ERRO1, Lexema: }, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 203, coluna 3
+Classe: id, Lexema: b, Tipo: Nulo
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 203, coluna 5
+Classe: id, Lexema: c, Tipo: Nulo
+Classe: ERRO2, Lexema: 12., Tipo: Nulo
+ERRO2 - Numero invalido , linha 204, coluna 3
+Classe: PT_V, Lexema: ;, Tipo: Nulo
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO2, Lexema: 12., Tipo: Nulo
+ERRO2 - Numero invalido , linha 205, coluna 3
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO2, Lexema: 123.12E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 206, coluna 7
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO2, Lexema: 123.12E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 207, coluna 7
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 207, coluna 8
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO2, Lexema: 123.12E+, Tipo: Nulo
+ERRO2 - Numero invalido , linha 208, coluna 8
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO2, Lexema: 123.12E+, Tipo: Nulo
+ERRO2 - Numero invalido , linha 209, coluna 8
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 209, coluna 9
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO2, Lexema: 123E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 210, coluna 4
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO2, Lexema: 123E, Tipo: Nulo
+ERRO2 - Numero invalido , linha 211, coluna 4
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 211, coluna 5
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO2, Lexema: 123E+, Tipo: Nulo
+ERRO2 - Numero invalido , linha 212, coluna 5
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO2, Lexema: 123E+, Tipo: Nulo
+ERRO2 - Numero invalido , linha 213, coluna 5
+Classe: ERRO1, Lexema: ?, Tipo: Nulo
+ERRO1 - Caracter invalido na linguagem , linha 213, coluna 6
+Classe: id, Lexema: ae, Tipo: Nulo
+Classe: ERRO3, Lexema: ", Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 214, coluna 1
+Classe: ERRO3, Lexema: "abc, Tipo: Nulo
+ERRO3 - Literal incompleto, faltando uma aspas duplas , linha 215, coluna 4
+Classe: ERRO4, Lexema: 'a, Tipo: Nulo
+ERRO4 - Literal incompleto, Faltando uma aspas simples , linha 216, coluna 2
+Classe: ERRO5, Lexema: {abcc, Tipo: Nulo
+ERRO5 - Comentario incompleto, faltando chaves } , linha 217, coluna 5
+Classe: ERRO5, Lexema: {, Tipo: Nulo
+ERRO5 - Comentario incompleto, faltando chaves } , linha 218, coluna 1
+Classe: ERRO4, Lexema: 'a, Tipo: Nulo
+ERRO4 - Literal incompleto, Faltando uma aspas simples , linha 219, coluna 2
+Classe: id, Lexema: b, Tipo: Nulo
+Classe: ERRO6, Lexema: '', Tipo: Nulo
+ERRO6 - Literal incompleto, a aspas simples nao pode ser vazia , linha 220, coluna 2
+Classe: ERRO4, Lexema: ', Tipo: Nulo
+ERRO4 - Literal incompleto, Faltando uma aspas simples , linha 221, coluna 1
+Classe: EOF, Lexema: EOF, Tipo: Nulo
