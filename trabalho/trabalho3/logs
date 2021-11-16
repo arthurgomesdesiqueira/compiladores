@@ -1,0 +1,109 @@
+TIPO->literal
+L->id
+L->id vir L
+D->TIPO L pt_v
+TIPO->inteiro
+L->id
+D->TIPO L pt_v
+TIPO->inteiro
+L->id
+D->TIPO L pt_v
+TIPO->real
+L->id
+D->TIPO L pt_v
+LV->varfim pt_v
+LV->D LV
+LV->D LV
+LV->D LV
+LV->D LV
+V->varinicio LV
+ARG->lit
+ES->escreva ARG pt_v
+ES->leia id pt_v
+ARG->lit
+ES->escreva ARG pt_v
+ES->leia id pt_v
+OPRD->id
+OPRD->num
+EXP_R->OPRD opr OPRD
+CAB->se ab_p EXP_R fc_p então
+OPRD->id
+OPRD->num
+EXP_R->OPRD opr OPRD
+CAB->se ab_p EXP_R fc_p então
+ARG->lit
+ES->escreva ARG pt_v
+CP->fimse
+CP->ES CP
+COND->CAB CP
+CP->fimse
+CP->COND CP
+COND->CAB CP
+OPRD->id
+OPRD->num
+LD->OPRD opm OPRD
+CMD->id rcb LD pt_v
+OPRD->id
+OPRD->num
+LD->OPRD opm OPRD
+CMD->id rcb LD pt_v
+OPRD->id
+OPRD->num
+LD->OPRD opm OPRD
+CMD->id rcb LD pt_v
+OPRD->id
+LD->OPRD
+CMD->id rcb LD pt_v
+OPRD->num
+LD->OPRD
+CMD->id rcb LD pt_v
+OPRD->id
+OPRD->num
+EXP_R->OPRD opr OPRD
+OPRD->id
+OPRD->num
+LD->OPRD opm OPRD
+CMD->id rcb LD pt_v
+ARG->id
+ES->escreva ARG pt_v
+OPRD->id
+OPRD->num
+LD->OPRD opm OPRD
+CMD->id rcb LD pt_v
+CP_R->fimrepita
+CP_R->CMD CP_R
+CP_R->ES CP_R
+CP_R->CMD CP_R
+R->repita ab_p EXP_R fc_p CP_R
+ARG->lit
+ES->escreva ARG pt_v
+ARG->id
+ES->escreva ARG pt_v
+ARG->lit
+ES->escreva ARG pt_v
+ARG->id
+ES->escreva ARG pt_v
+ARG->lit
+ES->escreva ARG pt_v
+ARG->id
+ES->escreva ARG pt_v
+A->fim
+A->ES A
+A->ES A
+A->ES A
+A->ES A
+A->ES A
+A->ES A
+A->R A
+A->CMD A
+A->CMD A
+A->CMD A
+A->CMD A
+A->CMD A
+A->COND A
+A->ES A
+A->ES A
+A->ES A
+A->ES A
+P->inicio V A
+P'->P

@@ -1,0 +1,219 @@
+escreva "Digite A:";
+escreva "\nB=\n";
+
+"ola@oi"
+
+inicio
+    varinicio
+        A literal;
+        B inteiro;
+        D inteiro;
+        C real;
+    varfim;
+    escreva "Digite B";
+    leia B;
+    escreva "Digite A:";
+    leia A;
+    se(B>2)
+    entao
+        se(B<=4)
+        entao
+            escreva "B esta entre 2 e 4";
+        fimse
+    fimse
+    B<-B+1;
+    B<-B+2;
+    B<-B+3;
+    D<-B;
+    C<-5.0;
+    repita (B<5)
+        B<-B+1;
+    fimrepita
+    escreva "\nB=\n";
+    escreva D;
+    escreva "\n";
+    escreva C;
+    escreva "\n";
+    escreva A;
+fim
+aa{
+{{{{{oi}
+
+    "ola mundo"'a'{quero}*+-/();,
+
+<-
+<
+<=
+<>
+>
+>=
+=
+<-a
+<b
+<=c
+<>d
+>e
+>=f
+=g
+
+
+a
+a123
+a123_
+a_123
+a_
+a-
+a123-
+a123_-
+a_123-
+a_-
+
+inicio
+varinicio
+varfim
+escreva
+leia
+se
+entao
+fimse
+repita
+fimrepita
+fim
+inteiro
+literal
+real
+
+
+1
+123
+1E
+123E
+1E+1
+1E+123
+123E+1
+123E+123
+1E-1
+1E-123
+123E-1
+123E-123
+1E1
+1E123
+123E1
+123E123
+1e
+123e
+1e+1
+1e+123
+123e+1
+123e+123
+1e-1
+1e-123
+123e-1
+123e-123
+1e1
+1e123
+123e1
+123e123
+
+1.1
+1.123
+1.1E
+1.123E
+1.1E+1
+1.1E+123
+1.123E+1
+1.123E+123
+1.1E-1
+1.1E-123
+1.123E-1
+1.123E-123
+1.1E1
+1.1E123
+1.123E1
+1.123E123
+1.1e
+1.123e
+1.1e+1
+1.1e+123
+1.123e+1
+1.123e+123
+1.1e-1
+1.1e-123
+1.123e-1
+1.123e-123
+1.1e1
+1.1e123
+1.123e1
+1.123e123
+
+123.1
+123.123
+123.1E
+123.123E
+123.1E+1
+123.1E+123
+123.123E+1
+123.123E+123
+123.1E-1
+123.1E-123
+123.123E-1
+123.123E-123
+123.1E1
+123.1E123
+123.123E1
+123.123E123
+123.1e
+123.123e
+123.1e+1
+123.1e+123
+123.123e+1
+123.123e+123
+123.1e-1
+123.1e-123
+123.123e-1
+123.123e-123
+123.1e1
+123.1e123
+123.123e1
+123.123e123
+
+
+@ } ?
+12.;
+12.
+123.12E
+123.12E?
+123.12E+
+123.12E+?
+123E
+123E?
+123E+
+123E+?
+"
+"abc
+'a
+{abcc
+{
+'abcd
+''
+'
+
+@a}b?c
+12.;ae
+12.ae
+123.12Eae
+123.12E?ae
+123.12E+ae
+123.12E+?ae
+123Eae
+123E?ae
+123E+ae
+123E+?ae
+"
+"abc
+'a
+{abcc
+{
+'ab
+''
+'
